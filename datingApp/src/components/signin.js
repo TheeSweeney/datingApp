@@ -31,7 +31,7 @@ export default class SignIn extends Component {
   buttonPress(){
     console.log('button pressed!')
   }
-}
+};
 
 const styles = StyleSheet.create({
   container: {
